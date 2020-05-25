@@ -4,7 +4,7 @@ Menu / Inventory
 
 Cusres "Wrappers"
 
-Overworld (3D)
-Noise (Audio) System
-Lighting System
-Entity Updates
+Overworld (3D):
+	Noise (Audio) System
+	Lighting System
+	Entity Updates

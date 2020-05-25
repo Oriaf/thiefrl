@@ -1,6 +1,10 @@
 Event System
+
+Menu / Inventory
+
+Cusres "Wrappers"
+
+Overworld (3D)
 Noise (Audio) System
 Lighting System
-Menu / Inventory
-Overworld (3D)
-Cusres "Wrappers"
+Entity Updates
